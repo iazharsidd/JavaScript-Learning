@@ -8,3 +8,5 @@ console.log(x);
 // console.log(x);
 var a = 25;//redefinition 
 console.log(a);
+azhar = 'Azhar'
+console.table([a,x,azhar])
