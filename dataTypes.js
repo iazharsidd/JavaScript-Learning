@@ -12,3 +12,8 @@ console.log(d,typeof(d));
 console.log(e,typeof(e));
 console.log(f,typeof(f));
 console.log(g,typeof(g));
+let naam = "Azhar"
+let nwName = naam;
+console.log(naam);
+nwName = "Mujeeb"
+console.log(nwName);
